@@ -6,8 +6,6 @@
 
 html {
   block-size: 100%;
-  max-inline-size: 800px;
-  max-block-size: 1200px;
 }
 
 .page {
@@ -19,7 +17,7 @@ html {
   font-size: 18px;
   background-color: #1b1919;
   display: flex;
-  padding-left: 30px;
+  justify-content: center;
   align-items: center;
 }
 

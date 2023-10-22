@@ -193,7 +193,7 @@ input[type="checkbox"]:checked + span {
 .content__list {
   max-block-size: 324px;
   inline-size: 420px;
-  overflow: scroll;
+  overflow: auto;
   overflow-x: hidden;
   display: flex;
   flex-direction: column;

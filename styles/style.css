@@ -19,8 +19,9 @@ html {
   font-size: 18px;
   background-color: #1b1919;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  padding-left: 30px;
+  align-items: start;
+  padding-top: 133px;
 }
 
 h1,
@@ -277,5 +278,5 @@ input[type="checkbox"]:checked + span {
 }
 
 .preloader {
-  position: absolute;
+  position: relative;
 }
